@@ -22,14 +22,14 @@ export const PERSONAL_INFO = {
     email: 'mailto:sohelrana587129@gmail.com',
   },
   metrics: [
-    { label: 'Problems', value: '250+', subtext: 'Algorithms Solved', color: 'text-primary' },
+    { label: 'Problems', value: '100+', subtext: 'Algorithms Solved', color: 'text-primary' },
     { label: 'Academic', value: 'Batch 44', subtext: 'DIU Software Eng.', color: 'text-secondary' },
     { label: 'Focus Area', value: 'AI / SWE', subtext: 'Applied Pipeline', color: 'text-on-surface' },
   ],
   devProfile: {
     academicDegree: 'B.Sc. in Software Engineering',
     institution: 'Daffodil International University',
-    departmentAndBatch: 'Dept. of SE • Batch 44',
+    departmentAndBatch: 'Dept. of SWE • Batch 44',
     currentStanding: '2rd Year Undergraduate',
     competitiveSolves: '100+ Algorithmic Challenges',
     currentResearchFocus: 'Supervised Learning & NLP(Starting)',
@@ -40,7 +40,7 @@ export const PERSONAL_INFO = {
 
 export const PROJECTS: Project[] = [
   {
-    id: 'ml-prediction-engine',
+    id: 'Ml-prediction-engine',
     title: 'Machine Learning Prediction & Analytics Engine',
     category: 'ai',
     featured: true,
@@ -76,7 +76,7 @@ export const PROJECTS: Project[] = [
     imageAlt:
       'Dark high-tech cybernetic machine learning dashboard UI with real-time neural network graph, data scatter plots, and telemetry readouts in neon purple and cyan on obsidian background.',
     academicTag: 'DIU Academic • Research Project',
-    githubUrl: 'https://github.com',
+    githubUrl: 'https://github.com/sohelrana587129-glitch',
     demoUrl: '#',
   },
   {
@@ -106,13 +106,13 @@ export const PROJECTS: Project[] = [
         'Exportable CSV and PDF summary report generation',
       ],
     },
-    technologies: ['Java SE', 'Design Patterns', 'File I/O'],
+    technologies: ['Java SWE', 'Design Patterns', 'File I/O'],
     image:
       'https://lh3.googleusercontent.com/aida-public/AB6AXuD4t8fyGSVDqQA0Kem0g2Zh3TNchBGWKb4HVblgmIQgRDGz5wVU3PSJohurezwvItw8uKUSsYR2Iy1b6wSg0nfa6otxdIyJ5XolLIoy99cgX1-0cAK0I__ALOuyjYuii86xDkHrFEfSjI9ma40Uy6jfddxbBT32Pisk-Y0-t-B626xcODvlVFbzz7ijx-HA0B40r33Mvrbo5Hby4LeGOKZH1KE0PzDdq1IO1DvyVUryfMrQmJkql2Q1',
     imageAlt:
       'Minimalist enterprise software management screen in dark mode with tabular record sets, hierarchical tree diagrams, and transaction status logs with soft purple lighting.',
     academicTag: 'DIU Coursework',
-    githubUrl: 'https://github.com',
+    githubUrl: 'https://github.com/sohelrana587129-glitch',
     hasSource: true,
   },
   {
@@ -246,7 +246,7 @@ export const SKILL_CATEGORIES: SkillCategory[] = [
   },
   {
     id: 'web-engineering',
-    title: 'Web Engineering',
+    title: 'Web Engineering(Loading..)',
     subtitle: 'Frontend & Backend',
     icon: 'web',
     iconColor: 'text-secondary',
@@ -264,7 +264,7 @@ export const SKILL_CATEGORIES: SkillCategory[] = [
     ],
   },
   {
-    id: 'ai-ml',
+    id: 'Ai-Ml',
     title: 'AI & Machine Learning',
     subtitle: 'Applied Data Science',
     icon: 'smart_toy',
@@ -327,8 +327,8 @@ export const TIMELINE: TimelineItem[] = [
   {
     period: '2022 — Present • In Progress',
     statusBadge: '2022 — Present • In Progress',
-    title: 'Bachelor of Science in Software Engineering (B.Sc. SE)',
-    institution: 'Daffodil International University (DIU) • Department of Software Engineering (Batch 44) • Avg_SGPA: 3.79',
+    title: 'Bachelor of Science in Software Engineering (B.Sc in SWE)',
+    institution: 'Daffodil International University (DIU) • Department of Software Engineering (Batch 44) •  Avg_SGPA: 3.79',
     location: 'Dhaka, Bangladesh',
     description:
       'Comprehensive undergraduate curriculum emphasizing the entire software engineering lifecycle, from rigorous mathematical analysis to production-readiness, system testing, and artificial intelligence foundations.',
@@ -345,7 +345,7 @@ export const TIMELINE: TimelineItem[] = [
   },
   {
     period: 'Higher Secondary Education',
-    title: 'Higher Secondary Certificate (HSC) — Science Stream',
+    title: 'Higher Secondary Certificate (HSC) — Science Background with GPA:- 4.75',
     institution: 'Rigorous focus on Higher Mathematics, Physics, Chemistry, and Information & Communication Technology (ICT).',
     location: 'Bangladesh',
     description:
@@ -380,7 +380,7 @@ export const MILESTONES: Milestone[] = [
     tag: 'Intra-University',
     tagColor: 'text-outline',
     description:
-      'Collaborative team hackathons at Daffodil International University, building rapid prototypes, APIs, and real-time interactive problem solutions under strict deadlines.',
+      'Collaborative team(Do or Die) hackathons at Daffodil International University, building rapid prototypes, APIs, and real-time interactive problem solutions under strict deadlines.',
   },
   {
     icon: 'target',
@@ -395,7 +395,7 @@ export const MILESTONES: Milestone[] = [
 
 export const REPOSITORIES: Repository[] = [
   {
-    name: 'ml-predictive-modeling-pipeline',
+    name: 'Ml-predictive-modeling-pipeline',
     isPublic: true,
     description: 'Modular feature scaling, classifier benchmarks, and Streamlit telemetry front-end.',
     language: 'Python',

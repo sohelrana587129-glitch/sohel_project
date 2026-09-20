@@ -60,7 +60,7 @@ Focused on Higher Mathematics, Physics, Chemistry, and ICT.
 ---
 
 ## COMPETITIVE PROGRAMMING & HONORS
-- Solved **250+ algorithmic challenges** across LeetCode, Codeforces, and HackerRank.
+- Solved **100+ algorithmic challenges** across LeetCode, Codeforces, and HackerRank.
 - Active participant in DIU intra-university hackathons and software prototyping sprints.
 `;
 
@@ -233,7 +233,7 @@ Focused on Higher Mathematics, Physics, Chemistry, and ICT.
             </h4>
             <div className="p-3 rounded-lg bg-surface-container border border-outline-variant/15 text-xs">
               <span>
-                Solved <strong>250+ algorithmic challenges</strong> across LeetCode and Codeforces covering dynamic programming, graphs, trees, and greedy approaches.
+                Solved <strong>100+ algorithmic challenges</strong> across LeetCode and Codeforces covering dynamic programming, graphs, trees, and greedy approaches.
               </span>
             </div>
           </div>
